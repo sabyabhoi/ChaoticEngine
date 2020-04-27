@@ -1,0 +1,3 @@
+[submodule "Chaotic/vendor/spdlog"]
+	path = Chaotic/vendor/spdlog
+	url = https://github.com/gabime/spdlog
